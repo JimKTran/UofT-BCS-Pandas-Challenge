@@ -1,6 +1,6 @@
 # PyCitySchools Pandas Homework
-## _Due: Oct. 24, 2020_
-### _Submitted By: Jim Tran_
+## _Submitted October 21, 2020_
+### _By: Jim Tran_
 
 ![education](Images/education.png)
 
